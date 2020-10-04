@@ -5,4 +5,5 @@ OR
 
 ## Package the application
 <code>yarn dist</code>
+OR
 <code>npm run dist</code>
